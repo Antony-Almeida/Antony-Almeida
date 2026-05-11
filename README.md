@@ -22,7 +22,7 @@
 
 ## 🚀 Tecnologias que estou estudando
 
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline" align="center"><br>
 
   <img align="center" alt="JavaScript" height="40" width="50"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

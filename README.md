@@ -28,7 +28,7 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="37" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="50" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="Java"/></code>
+<code><img height="50" src="https://www.freelogovectors.net/wp-content/uploads/2023/07/java-logo-01-freelogovectors.net_.png" alt="Java"/></code>
 
 </div>
 
